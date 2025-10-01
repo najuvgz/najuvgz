@@ -1,3 +1,5 @@
+# About me 😄
+
 Hello, geeks! 👋
 
 I’m Nahuel Vázquez, a Data Scientist with experience in Python (Pandas, NumPy), Machine Learning (Scikit-learn, Keras), Data Visualization, and Natural Language Processing. I also have a background in web development, including JavaScript, HTML, and CSS.
